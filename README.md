@@ -1,3 +1,3 @@
 # docker-0
 docker file
-hello sai
+print("hello sai")
